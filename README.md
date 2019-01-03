@@ -1,10 +1,19 @@
 # josh2019
-1. Viraj Chavan
+1.vaibhav thombare
+ josh software
+2. Viraj Chavan
    Josh Software
-2. Pradip Kshirsagar
+
+3. Shawn
+   Josh Software
+4. Niranjan Patil
+   WCE,Sangli
+   Information Technology
+   JOsh Software
+5. Aniket Patil
+   PICT
+
+6. Pradip Kshirsagar
    Walchand College 
    CSE
    Good Chess Player
-3. Shawn
-   Josh Software
-4. Aniket Patil
