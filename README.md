@@ -1,5 +1,5 @@
 # josh2019
-1.vaibhav thombare
+1. vaibhav thombare
  josh software
 2. Viraj Chavan
    Josh Software
@@ -12,7 +12,7 @@
    Josh Software
 5. Aniket Patil
    PICT
-6.Ankita pandey
+6. Ankita pandey
 
 7. Swapnil Naik
   josh software
@@ -32,4 +32,14 @@
    Walchand College 
    CSE
    Good Chess Player
+
+12. Sachin Patade
+    Automation Engg
+    Josh Softwar
+13. Chinmay Sonawane
+    Fergusson College
+    MSc Comp Sci
+    Hello world
+14. Bhushan kalode     
+    wce
 
