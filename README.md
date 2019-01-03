@@ -11,12 +11,9 @@
    Information Technology
    Josh Software
 5. Aniket Patil
+   PICT
+6.Ankita pandey
 
-
-6. Pradip Kshirsagar
-   Walchand College 
-   CSE
-   Good Chess Player
 7. Swapnil Naik
   josh software
    PICT
@@ -25,3 +22,14 @@
    Josh Software
 9. Ankita pandey
    Josh Software
+
+10. Kaiwalya Pataskar
+     Fergusson College
+     Kuch Bhi line
+     
+
+11. Pradip Kshirsagar
+   Walchand College 
+   CSE
+   Good Chess Player
+
