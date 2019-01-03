@@ -10,5 +10,16 @@
    Information Technology
    JOsh Software
 5. Aniket Patil
+
 6. Bhushan kalode
+
+
+
+6. Swapnil Naik
+  josh software
+   PICT
+7. Suraj Rajput
+   Josh Software
+8. Ankita pandey
+   Josh Software
 
