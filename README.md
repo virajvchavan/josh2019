@@ -37,5 +37,3 @@
 10. Bhushan kalode     
 	wce
 
-     
->>>>>>> 54d560373e65b01144fdbc248e4faab369f76faf
