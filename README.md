@@ -15,14 +15,14 @@
 7. Swapnil Naik
   josh software
    PICT
-7. Suraj Rajput
+8. Suraj Rajput
    Josh Software
-8. Ankita pandey
+9. Ankita pandey
    Josh Software
-9. Kaiwalya Pataskar
+10. Kaiwalya Pataskar
      Fergusson College
      Kuch Bhi line
-10. Chinmay Sonawane
+11. Chinmay Sonawane
    Fergusson College
    MSc Comp Sci
    Hello world
