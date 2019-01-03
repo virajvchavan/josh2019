@@ -9,10 +9,18 @@
 4. Niranjan Patil
    WCE,Sangli
    Information Technology
-   JOsh Software
+   Josh Software
 5. Aniket Patil
    PICT
 6.Ankita pandey
-7. Kaiwalya Pataskar
+   Josh Software
+6. Suraj Rajput
+   Josh Software
+7. Ankita pandey
+   Josh Software
+
+9. Kaiwalya Pataskar
      Fergusson College
      Kuch Bhi line
+     
+
