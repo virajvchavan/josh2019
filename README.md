@@ -10,14 +10,19 @@
    Information Technology
    Josh Software
 5. Aniket Patil
-6. Swapnil Naik
+   PICT
+6. Ankita pandey
+7. Swapnil Naik
   josh software
    PICT
 7. Suraj Rajput
    Josh Software
 8. Ankita pandey
    Josh Software
-9. Chinmay Sonawane
+9. Kaiwalya Pataskar
+     Fergusson College
+     Kuch Bhi line
+10. Chinmay Sonawane
    Fergusson College
    MSc Comp Sci
    Hello world
