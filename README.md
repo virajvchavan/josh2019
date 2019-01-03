@@ -8,10 +8,13 @@
 4. Niranjan Patil
    WCE,Sangli
    Information Technology
-   JOsh Software
+   Josh Software
 5. Aniket Patil
+
 6. Swapnil Naik
   josh software
    PICT
-6.Ankita pandey
-
+7. Suraj Rajput
+   Josh Software
+8. Ankita pandey
+   Josh Software
