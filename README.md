@@ -9,11 +9,14 @@
 4. Niranjan Patil
    WCE,Sangli
    Information Technology
-   JOsh Software
+   Josh Software
 5. Aniket Patil
-   PICT
 
 6. Pradip Kshirsagar
    Walchand College 
    CSE
    Good Chess Player
+7. Suraj Rajput
+   Josh Software
+8. Ankita pandey
+   Josh Software
