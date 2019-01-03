@@ -12,11 +12,16 @@
    Josh Software
 5. Aniket Patil
 
+
 6. Pradip Kshirsagar
    Walchand College 
    CSE
    Good Chess Player
-7. Suraj Rajput
+7. Swapnil Naik
+  josh software
+   PICT
+
+8. Suraj Rajput
    Josh Software
-8. Ankita pandey
+9. Ankita pandey
    Josh Software
