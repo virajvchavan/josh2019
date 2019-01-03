@@ -3,6 +3,7 @@
  josh software
 2. Viraj Chavan
    Josh Software
+
 3. Shawn
    Josh Software
 4. Niranjan Patil
@@ -10,8 +11,11 @@
    Information Technology
    JOsh Software
 5. Aniket Patil
+   PICT
+6.Ankita pandey
 
-6. Bhushan kalode
+
+
 
 
 
@@ -23,3 +27,10 @@
 8. Ankita pandey
    Josh Software
 
+
+9. Kaiwalya Pataskar
+     Fergusson College
+     Kuch Bhi line
+
+10. Bhushan kalode     
+	wce
