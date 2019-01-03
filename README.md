@@ -2,14 +2,13 @@
 1.vaibhav thombare
  josh software
 2. Viraj Chavan
-   Josh Software
-
+   Josh Softwar
 3. Shawn
    Josh Software
 4. Niranjan Patil
    WCE,Sangli
    Information Technology
-   Josh Software
+   JOsh Software
 5. Aniket Patil
    PICT
 6. Swapnil Naik
@@ -22,8 +21,13 @@
 9. Kaiwalya Pataskar
      Fergusson College
      Kuch Bhi line
-10.Sachin Patade
+10. Bhushan kalode     
+	wce
+11.Sachin Patade
   Automation Engg
   Josh Softwar
-     
+
+
+
+
 
