@@ -1,8 +1,10 @@
 # josh2019
-
 1. Viraj Chavan
    Josh Software
 2. Pradip Kshirsagar
-3. Walchand College 
-4. CSE
-5. Good Chess Player
+   Walchand College 
+   CSE
+   Good Chess Player
+3. Shawn
+   Josh Software
+4. Aniket Patil
