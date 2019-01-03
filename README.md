@@ -13,10 +13,14 @@
 5. Aniket Patil
    PICT
 6.Ankita pandey
+
+
+6. Swapnil Naik
+  josh software
+   PICT
+7. Suraj Rajput
    Josh Software
-6. Suraj Rajput
-   Josh Software
-7. Ankita pandey
+8. Ankita pandey
    Josh Software
 
 9. Kaiwalya Pataskar
