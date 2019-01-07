@@ -1,0 +1,33 @@
+#Ruby
+5.times { puts 'HEllo'}
+puts 'Hello'
+'Hello'.class
+'A'.class.class
+TRUE.class
+'Hello'.reverse
+'Hello'.length
+'Hello'.upcase
+'Hello'.methods.sort
+'surajrajput'.split(j)
+"value: #{20+23}"
+'12345'.include?'34'
+"value: #{12.class}"
+'suraj' === 'Suraj'
+2**3
+nil.class
+nil.methods
+12.nil?
+nil&.(length)
+Integer === 22
+Range  === (1..2)
+require 'rails'
+nil.try(:length)
+2.to_f
+[1,12.3,'suraj', false]
+[1,12.3,'suraj', false][2].class
+{a:1, b:2, d:12}
+{a:1, b:2, d:12}[:b]
+12.object_id
+def sum1(number1, number2)
+puts 'hello' if 3>5
+puts 'hello' unless 3>5
