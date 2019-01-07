@@ -1,6 +1,9 @@
-https://github.com/KaiwalyaPataskar/RubyTrainig/tree/master
-https://github.com/SwapnilNaik/SwapGithub
-https://github.com/Ankitap123/Ruby_training
-https://github.com/suraj32/TrainFinal
+Kaiwalya Pataskar-> https://github.com/KaiwalyaPataskar/RubyTrainig/tree/master
+
+Swapnil Naik-> https://github.com/SwapnilNaik/SwapGithub
+
+Ankita Pandey-> https://github.com/Ankitap123/Ruby_training
+
+Suraj Rajput-> https://github.com/suraj32/TrainFinal
 
 Niranjan Patil-> https://github.com/nirupatil/intern_training/
