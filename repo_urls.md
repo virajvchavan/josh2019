@@ -7,3 +7,5 @@ Ankita Pandey-> https://github.com/Ankitap123/Ruby_training
 Suraj Rajput-> https://github.com/suraj32/TrainFinal
 
 Niranjan Patil-> https://github.com/nirupatil/intern_training/
+
+Bhushan Kalode-> https://github.com/bhushank12/RubyCodeTraning
