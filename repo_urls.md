@@ -1,4 +1,4 @@
-Kaiwalya Pataskar-> https://github.com/KaiwalyaPataskar/RubyTrainig/tree/master
+Kaiwalya Pataskar-> https://github.com/KaiwalyaPataskar/RubyTraining
 
 Swapnil Naik-> https://github.com/SwapnilNaik/SwapGithub
 
