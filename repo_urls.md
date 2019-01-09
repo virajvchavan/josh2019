@@ -11,3 +11,5 @@ Niranjan Patil-> https://github.com/nirupatil/intern_training/
 Bhushan Kalode-> https://github.com/bhushank12/RubyCodeTraning
 
 Shramik Gajlekar -> https://github.com/ShramikPG/Assignments-JOSH-Internship-/
+
+Vaibhav Thombare ->https://github.com/vaibhav8186/Ruby-sample-codes
